@@ -4,14 +4,14 @@ Método: POST
 URL: http://localhost:3000/api/usuarios
 Body: JSON com nome, email, senha.
 {
-  "nome": "Usuario Teste",
-  "email": "teste@exemplo.com",
+  "nome": "Matheus",
+  "email": "Matheus@exemplo.com",
   "senha": "123456"
 }
 
 {
-  "nome": "Usuario Teste2",
-  "email": "teste2@exemplo.com",
+  "nome": "Gustavo",
+  "email": "Gustavo@exemplo.com",
   "senha": "123456"
 }
 
